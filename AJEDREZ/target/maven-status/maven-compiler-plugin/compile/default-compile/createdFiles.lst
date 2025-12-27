@@ -1,0 +1,14 @@
+Piece\Knigth.class
+com\mycompany\ajedrez\Board.class
+Piece\ROOK.class
+com\mycompany\ajedrez\AJEDREZ.class
+Piece\Piezas.class
+Piece\Bishop.class
+Piece\Queen.class
+Visual\JaqueVisual.class
+Piece\Pawn.class
+Visual\JaqueMateVisual.class
+Visual\TurnoVisual.class
+Piece\King.class
+com\mycompany\ajedrez\Mouse.class
+com\mycompany\ajedrez\PanelJuego.class
